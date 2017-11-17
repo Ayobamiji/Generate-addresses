@@ -1,0 +1,42 @@
+/*.bgimage{
+    background-image: url(../img/comingsoon.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: contain;
+}*/
+
+body{
+    background-image: url(../img/newbg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.content{
+    padding: 4%;
+    background-color: rgba(255, 255, 255, 0.65);
+    border-radius: 15px;
+}
+
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: #000;
+}
+
+
+h1{
+    font-weight: 700;
+    color: #000;
+}
+
+p {
+    font-weight: 600;
+}
+
+h5{
+    font-weight: 800;
+}
